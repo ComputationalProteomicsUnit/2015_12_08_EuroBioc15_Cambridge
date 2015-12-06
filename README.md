@@ -53,3 +53,12 @@
 *	All this implemented in pRoloc software, including vignette on how to apply the algorithms, all theories explained in the pre-print  
 
 Slides under a CC-BY license.
+
+
+Share this:
+Embed*
+Cite this:
+
+Breckels, Lisa; Gatto, Laurent (2015): Learning from heterogeneous
+data sources: an application in spatial proteomics. fig**share**.
+[http://dx.doi.org/10.6084/m9.figshare.1619712]
